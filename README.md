@@ -6,7 +6,7 @@
 1. a router for events (e.g. a new build is detected by Igor which should trigger a pipeline)
 2. a scheduler for CRON triggered pipelines.
 
-The following high level diagram shows how events flow through `echo`:  
+The following high level diagram shows how events flow through `echo`:   
 ![echo high level architecture](docs/echo.png)
   
 
